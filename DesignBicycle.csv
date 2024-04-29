@@ -1,0 +1,26 @@
+Bike_TravelTime_bike,Bike_Exposure,Bike_sharing_TravelTime_bike,Bike_sharing_TravelCost_bike,Bike_sharing_Exposure,E_ric_TravelTime_ric,E_ric_TravelCost_ric,E_ric_Exposure,Block
+30,Effect on heart,25,10,Effect on lungs,15,20,No impact on health,5
+30,Effect on heart,20,10,Skin and eye irritation,15,30,Skin and eye irritation,2
+30,Effect on heart,20,8,Breathing issues,20,20,No impact on health,2
+25,Effect on lungs,25,8,Effect on heart,20,20,No impact on health,2
+20,Breathing issues,30,8,Effect on heart,20,20,No impact on health,3
+30,Effect on lungs,25,10,Skin and eye irritation,10,30,Breathing issues,5
+30,Effect on heart,20,10,Breathing issues,15,20,Skin and eye irritation,1
+30,Effect on heart,20,8,Breathing issues,20,20,No impact on health,5
+20,No impact on health,30,5,Breathing issues,10,40,Effect on heart,1
+30,Effect on lungs,20,10,No impact on health,10,30,Effect on lungs,4
+25,Breathing issues,30,10,Effect on heart,10,20,Skin and eye irritation,2
+20,Skin and eye irritation,20,5,Skin and eye irritation,20,40,Effect on lungs,1
+25,Effect on lungs,25,10,Effect on lungs,15,20,Skin and eye irritation,4
+20,No impact on health,30,8,Effect on heart,15,30,Breathing issues,1
+25,No impact on health,25,8,Skin and eye irritation,10,40,Effect on heart,2
+25,Skin and eye irritation,25,8,No impact on health,10,40,Effect on heart,4
+25,Effect on lungs,20,5,Skin and eye irritation,20,30,Breathing issues,4
+30,Breathing issues,20,10,No impact on health,10,40,Effect on lungs,3
+20,Skin and eye irritation,30,5,Effect on lungs,15,30,Breathing issues,5
+25,Skin and eye irritation,25,5,No impact on health,10,40,Effect on heart,3
+25,Breathing issues,20,5,No impact on health,15,40,Effect on lungs,1
+20,Skin and eye irritation,25,5,Effect on lungs,20,30,Breathing issues,3
+20,No impact on health,30,8,Breathing issues,10,40,Effect on heart,5
+20,Breathing issues,30,5,Effect on heart,20,20,Skin and eye irritation,4
+20,No impact on health,30,5,Effect on lungs,15,30,Effect on lungs,3
