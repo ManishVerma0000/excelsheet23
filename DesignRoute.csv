@@ -1,17 +1,17 @@
 Block,Cost_1,Cost_2,Time_1,Time_2,Dose_1,Dose_2,Exposure_1,Exposure_2
-1,90,90,100,80,Low,Low,Effect on lungs,breathing issues
-1,110,90,120,120,High,Low,Skin and eye irritation,breathing issues
-1,110,110,100,80,High,High,breathing issues,No impact on health
-1,90,110,120,120,Low,High,Skin and eye irritation,No impact on health
+1,90,90,100,80,Low,Low,Effect on lungs,Breathing issues
+1,110,90,120,120,High,Low,Skin and eye irritation,Breathing issues
+1,110,110,100,80,High,High,Breathing issues,Negligible impact on health
+1,90,110,120,120,Low,High,Skin and eye irritation,Negligible impact on health
 2,110,90,100,120,Low,Low,Effect on heart,Effect on lungs
 2,90,110,80,80,High,Low,Skin and eye irritation,Effect on lungs
-2,90,110,100,120,High,High,No impact on health,Effect on heart
-2,90,90,80,120,Low,High,breathing issues,Skin and eye irritation
-3,110,110,120,80,Low,High,No impact on health,Skin and eye irritation
-3,100,110,80,100,Medium,High,Effect on heart,breathing issues
+2,90,110,100,120,High,High,Negligible impact on health,Effect on heart
+2,90,90,80,120,Low,High,Breathing issues,Skin and eye irritation
+3,110,110,120,80,Low,High,Negligible impact on health,Skin and eye irritation
+3,100,110,80,100,Medium,High,Effect on heart,Breathing issues
 3,100,90,120,100,High,High,Effect on lungs,Effect on lungs
-3,100,110,120,100,Low,Low,breathing issues,Effect on heart
-4,100,90,80,100,Medium,Low,No impact on health,No impact on health
+3,100,110,120,100,Low,Low,Breathing issues,Effect on heart
+4,100,90,80,100,Medium,Low,Negligible impact on health,Negligible impact on health
 4,90,90,120,80,High,Low,Effect on heart,Skin and eye irritation
 4,110,90,80,80,Low,High,Skin and eye irritation,Effect on heart
 4,110,110,80,120,High,Low,Effect on lungs,Skin and eye irritation
